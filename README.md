@@ -1,5 +1,9 @@
 Android Dagger Demo
 -------------------
+android test app to test
+https://www.mthakuri.com/index.php/2017/08/23/jenkins-for-android-development/#more-108
+https://www.mthakuri.com/index.php/2017/09/14/deploying-signed-android-app-to-google-play-store-with-jenkins/
+https://www.mthakuri.com/index.php/2017/09/14/make-a-signed-android-app-in-jenkins/
 
 Testing with Dagger 2, Espresso 2 and Mockito.
 
